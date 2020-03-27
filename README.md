@@ -4,7 +4,9 @@ http://127.0.0.1:8080/movie 进入主页
 主要实现：
 api的调用，路由跳转，组件嵌套，跳转城市。
 
-![image]
+![image](https://github.com/shootFrie/movie-mobile/blob/master/cinema.png)
+![image](https://github.com/shootFrie/movie-mobile/blob/master/movie.png)
+![image](https://github.com/shootFrie/movie-mobile/blob/master/detail.png)
 
 
 # movie-web
