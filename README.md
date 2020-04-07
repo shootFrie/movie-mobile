@@ -1,5 +1,8 @@
 # movie-web
 
+# 新增
+MmServer文件夹作为后台，express连接mysql数据库，制作接口。未完成...
+
 ## Project setup
 ```
 npm install
